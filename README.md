@@ -5,7 +5,7 @@
 
 This is a Max For Live device that uses a stereo signal's left/right phase correlation as a modulation source to control other parameters. It has adjustable smoothing, shift, and scale controls.
 
-A mono signal has a correlation value of 1. A signal at 100% volume in one channel has a correlation value of 0. This device allows you to map that correlation value to up to 8 other parameters in your Live Set.
+A mono signal has a correlation value of 1. A stereo signal that is perfectly out of phase has a correlation value of 0. A , as does a signal at 100% volume in one channel and silence in the other. This device allows you to map that correlation value to up to 8 other parameters in your Live Set.
 
 ### Changelog
 
@@ -23,11 +23,17 @@ Add the device to an instrument or MIDI track. The left/right phase correlation 
 ### Smooth
 Use the `Smooth` dial to control how many samples are averaged to produce the output value. A higher number will produce smoother output. You can control the smoothing by time or with a note value.
 
-### Shift
-Increases or decreases the output value by a fixed amount.
+### Curve
+Adjusts the power of the curve mapping to the output values. Higher numbers have exaggerated responses to changes in correlation.
 
 ### Scale
 Scales the output value by the specified value.
+
+### Invert
+Inverts the output signal.
+
+### Shift
+Increases or decreases the output value by a fixed amount.
 
 ## Common Problems
 
