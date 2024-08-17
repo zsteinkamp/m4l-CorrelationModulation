@@ -10,7 +10,8 @@ A mono signal has a correlation value of 1. A stereo signal that is perfectly ou
 ### Changelog
 
 Direct download links below.
-* [DOWNLOAD v1](https://github.com/zsteinkamp/m4l-CorrelationModulation/raw/main/frozen/CorrelationModulation-1.amxd) - 2023-12-09 - Initial Version
+* [DOWNLOAD v2](https://github.com/zsteinkamp/m4l-CorrelationModulation/raw/main/frozen/Correlation%20Modulation%20v2.amxd) - 2024-08-17 - Support Live 12 Modulation mode; General improvements and UI touch-ups
+* [v1](https://github.com/zsteinkamp/m4l-CorrelationModulation/raw/main/frozen/CorrelationModulation-1.amxd) - 2023-12-09 - Initial Version
 
 ## Installation / Setup
 
