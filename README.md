@@ -7,6 +7,8 @@ This is a Max For Live device that uses a stereo signal's left/right phase corre
 
 A mono signal has a correlation value of 1. A stereo signal that is perfectly out of phase has a correlation value of 0. A , as does a signal at 100% volume in one channel and silence in the other. This device allows you to map that correlation value to up to 8 other parameters in your Live Set.
 
+[Video showing it in action.](https://www.youtube.com/watch?v=YfRTARPEUME)
+
 ### Changelog
 
 Direct download links below.
