@@ -12,8 +12,10 @@ A mono signal has a correlation value of 1. A stereo signal that is perfectly ou
 ### Changelog
 
 Direct download links below.
-* [DOWNLOAD v2](https://github.com/zsteinkamp/m4l-CorrelationModulation/raw/main/frozen/Correlation%20Modulation%20v2.amxd) - 2024-08-17 - Support Live 12 Modulation mode; General improvements and UI touch-ups
-* [v1](https://github.com/zsteinkamp/m4l-CorrelationModulation/raw/main/frozen/CorrelationModulation-1.amxd) - 2023-12-09 - Initial Version
+- 2024-10-29 [v3](https://github.com/zsteinkamp/m4l-CorrelationModulation/releases/download/v3/CorrelationModulation-v3.amxd) - Add non-blocking telemetry ping on load. Does not send any identifying information, only the plugin name, the local computer name, type of computer, and CPU type. I just want to see which plugins are used the most.
+
+* 2024-08-17 [v2](https://github.com/zsteinkamp/m4l-CorrelationModulation/raw/main/frozen/CorrelationModulation-v2.amxd) - Support Live 12 Modulation mode; General improvements and UI touch-ups
+* 2023-12-09 [v1](https://github.com/zsteinkamp/m4l-CorrelationModulation/raw/main/frozen/CorrelationModulation-v1.amxd) - Initial Version
 
 ## Installation / Setup
 
