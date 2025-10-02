@@ -12,6 +12,7 @@ A mono signal has a correlation value of 1. A stereo signal that is perfectly ou
 ### Changelog
 
 Direct download links below.
+- 2025-10-01 [v4](https://github.com/zsteinkamp/m4l-CorrelationModulation/releases/download/v4/CorrelationModulation-v4.amxd) - Update checks; Fix bipolar mod bug.
 - 2024-10-29 [v3](https://github.com/zsteinkamp/m4l-CorrelationModulation/releases/download/v3/CorrelationModulation-v3.amxd) - Add non-blocking telemetry ping on load. Does not send any identifying information, only the plugin name, the local computer name, type of computer, and CPU type. I just want to see which plugins are used the most.
 
 * 2024-08-17 [v2](https://github.com/zsteinkamp/m4l-CorrelationModulation/raw/main/frozen/CorrelationModulation-v2.amxd) - Support Live 12 Modulation mode; General improvements and UI touch-ups
@@ -19,7 +20,7 @@ Direct download links below.
 
 ## Installation / Setup
 
-If you just want to download and install the device, then go to the [frozen/](https://github.com/zsteinkamp/m4l-CorrelationModulation/tree/main/frozen) directory and download the newest `.amxd` file there. You can also download it directly via the links in [*Changelog*](#changelog).
+If you just want to download and install the device, then you can also download it directly via the links in [*Changelog*](#changelog).
 
 Note: If you want to open and edit the non-frozen device, you will need to have [zs.mapper](https://github.com/zsteinkamp/m4l-zs.mapper) installed. [Follow the installation instructions](https://github.com/zsteinkamp/m4l-zs.mapper) there.
 
